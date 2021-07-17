@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a5c0cdc526ee439c4907a699f36d8, type: 3}
+  m_Name: Menemui Teman 1
+  m_EditorClassIdentifier: 
+  questName: Menemui Teman
+  quest: Menemui Teman (10.00-13.00)
+  mainQuest: 0
+  fixedTimeSkip: 0
+  questNumber: 4
+  startQuestHours: 10
+  startQuestMinutes: 0
+  lateQuestHours: 24
+  lateQuestMinutes: 0
+  endQuestHours: 13
+  endQuestMinutes: 0
+  timeSkipHours: 1
+  timeSkipMinutes: 0
+  interact: {fileID: 6240670607252879748, guid: fda9168be7820bf4085798a32a37cbda,
+    type: 3}

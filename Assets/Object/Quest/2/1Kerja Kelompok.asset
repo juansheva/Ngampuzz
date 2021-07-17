@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a5c0cdc526ee439c4907a699f36d8, type: 3}
+  m_Name: 1Kerja Kelompok
+  m_EditorClassIdentifier: 
+  questName: Kerja kelompok
+  quest: Kerja Kelompok (17.00-18.00)
+  mainQuest: 0
+  fixedTimeSkip: 0
+  questNumber: 5
+  startQuestHours: 17
+  startQuestMinutes: 0
+  lateQuestHours: 24
+  lateQuestMinutes: 0
+  endQuestHours: 18
+  endQuestMinutes: 0
+  timeSkipHours: 3
+  timeSkipMinutes: 0
+  interact: {fileID: 8289956691268799833, guid: 19f2c6e89b18e6440affe1f3b722361f,
+    type: 3}

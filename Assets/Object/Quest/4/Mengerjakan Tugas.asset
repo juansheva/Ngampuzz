@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a5c0cdc526ee439c4907a699f36d8, type: 3}
+  m_Name: Mengerjakan Tugas
+  m_EditorClassIdentifier: 
+  questName: Mengerjakan Tugas
+  quest: Mengerjakan Tugas (17.00-20.00)
+  mainQuest: 1
+  fixedTimeSkip: 0
+  questNumber: 6
+  startQuestHours: 17
+  startQuestMinutes: 0
+  lateQuestHours: 24
+  lateQuestMinutes: 0
+  endQuestHours: 20
+  endQuestMinutes: 0
+  timeSkipHours: 2
+  timeSkipMinutes: 0
+  interact: {fileID: 3981041943257682581, guid: 5485a389789329b4caa6fe01d8b8a9ed,
+    type: 3}

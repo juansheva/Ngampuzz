@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a5c0cdc526ee439c4907a699f36d8, type: 3}
+  m_Name: Makan 2
+  m_EditorClassIdentifier: 
+  questName: Makan 2
+  quest: Makan (11.00-13.00)
+  mainQuest: 1
+  fixedTimeSkip: 0
+  questNumber: 1
+  startQuestHours: 11
+  startQuestMinutes: 0
+  lateQuestHours: 24
+  lateQuestMinutes: 0
+  endQuestHours: 13
+  endQuestMinutes: 0
+  timeSkipHours: 1
+  timeSkipMinutes: 0
+  interact: {fileID: 5787745004613532451, guid: bba85c871c21f6e4fb86d2d538bcaf08,
+    type: 3}
